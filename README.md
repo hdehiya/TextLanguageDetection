@@ -19,15 +19,6 @@ It compares traditional models (Naive Bayes, Logistic Regression, Random Forest,
 
 <br>
 
-|- languages.csv          # dataset
-
-|- language_detection.py  # main script
-
-|- README.md              # documentation
-
-|- requirements.txt       # dependencies
-
-
 
 <br>
 
