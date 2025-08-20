@@ -1,4 +1,7 @@
-A language detection project to identify input text from 20 different languages. It was developed as a part of a Machine Learning course at the University of Mumbai. The project includes data collection, preprocessing, and the training and evaluation of various machine learning models.
+A language detection project to identify input text from 20 different languages. It was developed as a part of a Machine Learning course at the University of Mumbai. 
+
+This project explores language detection from short text snippets using multiple machine learning algorithms.
+It compares traditional models (Naive Bayes, Logistic Regression, Random Forest, etc.) on a multilingual dataset.
 
 <br>
 
@@ -15,6 +18,12 @@ A language detection project to identify input text from 20 different languages.
 - Model Training and Evaluation: I trained and evaluated six different machine learning models to find the most accurate one for the task.
 
 <br>
+
+├── languages.csv          # dataset
+├── main.py                # main notebook
+├── README.md              # documentation
+└── runFlaskApp.py         # to run a simple Flask app
+
 
 <br>
 
