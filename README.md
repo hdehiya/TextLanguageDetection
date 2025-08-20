@@ -6,13 +6,13 @@ This project is a language detection model that can identify 31 different langua
 
 ⚙️ Project Stages
 
-    Data Collection and Preparation: I collected a diverse dataset of texts across 31 languages, and stored this data in unicode format to avoid data loss due to encoding errors of special characters.
+- Data Collection and Preparation: I collected a diverse dataset of texts across 31 languages, and stored this data in unicode format to avoid data loss due to encoding errors of special characters.
 
-    Data Cleaning and Preprocessing: The text data was cleaned by removing unnecessary characters and converting it into a consistent format suitable for model training. I used CountVectorizer to transform the cleaned text into a numerical matrix of token counts.
+- Data Cleaning and Preprocessing: The text data was cleaned by removing unnecessary characters and converting it into a consistent format suitable for model training. I used CountVectorizer to transform the cleaned text into a numerical matrix of token counts.
 
-    Exploratory Data Analysis (EDA): The dataset was analyzed to understand its characteristics, including word frequencies and text distribution across languages.
+- Exploratory Data Analysis (EDA): The dataset was analyzed to understand its characteristics, including word frequencies and text distribution across languages.
 
-    Model Training and Evaluation: I trained and evaluated six different machine learning models to find the most accurate one for the task.
+- Model Training and Evaluation: I trained and evaluated six different machine learning models to find the most accurate one for the task.
 
 <br>
 
