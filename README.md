@@ -1,4 +1,4 @@
-This project is a language detection model that can identify 31 different languages from a given text. It was developed as a part of a Machine Learning course at the University of Mumbai. The project includes data collection, preprocessing, and the training and evaluation of various machine learning models.
+A language detection project to identify input text from 31 different languages. It was developed as a part of a Machine Learning course at the University of Mumbai. The project includes data collection, preprocessing, and the training and evaluation of various machine learning models.
 
 <br>
 
