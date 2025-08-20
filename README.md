@@ -20,9 +20,10 @@ It compares traditional models (Naive Bayes, Logistic Regression, Random Forest,
 <br>
 
 ├── languages.csv          # dataset
-├── main.py                # main notebook
+├── language_detection.py  # main script
 ├── README.md              # documentation
-└── runFlaskApp.py         # to run a simple Flask app
+└── requirements.txt       # dependencies
+
 
 
 <br>
